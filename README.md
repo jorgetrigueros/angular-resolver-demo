@@ -1,6 +1,9 @@
 # NgResolverSample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+Ejemplo de uso de un resolver en Angular5
+
+Más información en mi blog personal: [http://ngserve.blogspot.com/](http://ngserve.blogspot.com/)
+
 
 ## Development server
 
